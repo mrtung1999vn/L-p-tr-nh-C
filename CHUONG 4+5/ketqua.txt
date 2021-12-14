@@ -1,0 +1,2 @@
+STT  Ten                          He so luong      Phu cap
+0    NHT                             1.000000            2
